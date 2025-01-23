@@ -1,0 +1,15 @@
+  {
+    "name": "herramientas manuales"
+  },
+  {
+    "name": "herramientas eléctricas"
+  },
+  {
+    "name": "medición"
+  },
+  {
+    "name": "accesorios"
+  },
+  {
+    "name": "materiales de construcción"
+  }
