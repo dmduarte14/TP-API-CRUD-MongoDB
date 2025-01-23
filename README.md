@@ -1,5 +1,8 @@
 
-# TP-API-CRUD-MongoDB Daniel Duarte
+# TP-API-CRUD-MongoDB Daniel Duarte 
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVteWV6cHR1cnF2YzVhdDhxNHdvenBvMXAwemgybDU3dXR4enRiZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MMnzoF2qdznMWzWE86/giphy.gif" width="100" height="50" />
+</div>
 
 Este proyecto es una API CRUD construida con Node.js, Cors, Express y MongoDB. Incluye autenticación, manejo de sesiones y soporte para métodos extendidos.
 
