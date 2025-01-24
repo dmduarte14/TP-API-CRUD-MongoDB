@@ -25,7 +25,7 @@ Instala las dependencias con:
   npm install 
 ```
 ## package.json
-```cmd
+```json
 {
   "name": "tp-api-crud-con-mongodb",
   "version": "1.0.0",
@@ -128,7 +128,7 @@ npm start
 
 # Archivos MOCK
 ## Usuarios
-```cmd
+```json
 [
   {
     "name": "freddie",
@@ -174,7 +174,7 @@ npm start
 
 ```
 ## Categorias
-```cmd
+```json
   {
     "name": "herramientas manuales"
   },
@@ -194,7 +194,7 @@ npm start
 
 
 ## Productos
-```cmd
+```json
 [
   {
     "name": "martillo",
